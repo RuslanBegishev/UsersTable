@@ -1,0 +1,26 @@
+.header {
+    background: #0088ff;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    padding: 0 40px;
+}
+
+.header__title a {
+    color: white;
+    text-decoration: none;
+}
+
+.header__title a:visited {
+    color: white;
+}
+
+.header__links {
+    margin-left: auto;
+    display: flex;
+}
+
+.header__link {
+    font-size: 16px;
+    margin-left: 20px;
+}

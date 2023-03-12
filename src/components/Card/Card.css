@@ -1,0 +1,29 @@
+.card {
+    width: 200px;
+    box-shadow: 3px 3px 10px 0 #ccc;
+    padding-bottom: 20px;
+}
+
+.card__image {
+    width: 100%;
+    height: 120px;
+}
+
+.card__image img {
+    object-fit: cover;
+    height: 100%;
+    min-width: 100%;
+}
+
+.card__title {
+    font-size: 18px;
+    color: #787878;
+}
+
+.card__subtitle {
+    font-size: 10px;
+}
+
+.card__subtitle a {
+    color: darkred;
+}

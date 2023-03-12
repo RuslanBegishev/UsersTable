@@ -1,0 +1,19 @@
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 auto;
+    width: 95%;
+}
+
+.card-list__item {
+    cursor:pointer;
+    padding-bottom: 40px;
+    padding-right: 30px;
+}
+
+/*.card-list__item:nth-child(1),*/
+/*.card-list__item:nth-child(2),*/
+/*.card-list__item:nth-child(3) {*/
+/*    margin-top: 0;*/
+/*}*/

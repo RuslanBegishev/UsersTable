@@ -1,0 +1,20 @@
+.footer {
+    background: black;
+    display: flex;
+    align-items: flex-end;
+    padding: 20px 40px;
+    font-size: 14px;
+}
+
+.footer__copyright {
+    color: white;
+    margin-left: auto;
+}
+
+.footer__link {
+    display: block;
+}
+
+.footer__link:hover {
+    text-decoration: underline;
+}
